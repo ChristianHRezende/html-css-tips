@@ -10,9 +10,9 @@
 
 `vertical-align: top`. // align text on top
 
-`font-weigth: bold`.
+`font-weight: bold`.
 
-`text-trasnform: uppercase`.
+`text-transform: uppercase`.
 
 `text-decoration: none`.
 
