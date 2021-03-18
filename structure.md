@@ -19,7 +19,7 @@
 
 ### Section
 
-<section> // use to separate the content of main, Ex - Section About
+`<section>` // use to separate the content of main, Ex - Section About
 
 ## Directories
 
