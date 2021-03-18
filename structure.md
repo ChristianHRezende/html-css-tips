@@ -23,8 +23,10 @@
 
 ## Directories
 
+```
 assets
-|— css
-|— normalize.css
-|— reset.css
-|— img
+    |— css
+        |— normalize.css
+        |— reset.css
+    |— img
+```
