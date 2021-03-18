@@ -1,6 +1,6 @@
 # Structure
 
-:root =. Esta acima do html
+:root =. The most high level selector
 
 ```html
 <head>
