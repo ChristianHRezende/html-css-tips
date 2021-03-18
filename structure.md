@@ -4,16 +4,16 @@
 
 ```html
 <head>
-  // Importações de estilos e arquivos de configuração
+  // imports of styles and configs
 </head>
 
 <body>
   <header></header>
-  // Header da pagina
+  // Header of page
   <main></main>
-  // corpo principal da pagina
+  // main content
   <footer></footer>
-  // cabeçalho
+  // footer
 </body>
 ```
 
