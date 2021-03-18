@@ -19,7 +19,7 @@
 `cursor`..
 
 - unicode - using &{name of unicode} and finish with ; // language of characters
-  `line-heiight:`. altura da linha
+  `line-height:`. altura da linha
 
 ### Unit measurement
 
