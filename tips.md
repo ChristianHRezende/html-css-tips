@@ -14,6 +14,14 @@
 - em = proportion of font size of mother tag
 - rem = proportion of font size of first tag level
 
+## Calcs with css
+
+- calc(40% - 26px) // any measurement
+
+### Case use
+
+- Dimensioning images
+
 ## Extensions VSCode
 
 - Emmet Abbreviation
