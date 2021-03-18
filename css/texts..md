@@ -28,6 +28,6 @@ rem = the most high lebel font size proportion
 
 Refs:
 
-(fonts.google.com)
+[Google Fonts](fonts.google.com)
 
-(unicodetable.com)
+[Unicode](unicodetable.com)
