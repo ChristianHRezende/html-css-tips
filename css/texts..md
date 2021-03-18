@@ -2,24 +2,24 @@
 
 ## Position
 
-`Text-align: center`.
+`text-align: center`.
 
-`Font-size: 30px.`.
+`font-size: 30px.`.
 
-`Font-size: 2em.` // Twice size of fontsize of mother tag
+`font-size: 2em.` // Twice size of fontsize of mother tag
 
-`Vertical-align: top`. // align text on top
+`vertical-align: top`. // align text on top
 
-`Font-weigth: bold`.
+`font-weigth: bold`.
 
-`Text-trasnform: uppercase`.
+`text-trasnform: uppercase`.
 
-`Text-decoration: none`.
+`text-decoration: none`.
 
 `cursor`..
 
-- unicode - using &{name of unicode} and finish with ; // linguagem com caracteres específicos unicodetable.com
-  `Line-heiight:`. altura da linha
+- unicode - using &{name of unicode} and finish with ; // language of characters
+  `line-heiight:`. altura da linha
 
 ### Unit measurement
 
@@ -29,3 +29,5 @@ rem = the most high lebel font size proportion
 Refs:
 
 (fonts.google.com)
+
+(unicodetable.com)
