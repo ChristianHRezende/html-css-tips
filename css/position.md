@@ -1,13 +1,13 @@
 # Position
 
-`display: Inline-block` //Remove a largura padrão e alinha com a linha de baixo
+`display: Inline-block` //Remove default width and align with the above line
 
 `text-align: center`
 
-`vertical-align: top` // Alinha ao topo
+`vertical-align: top` // Align on top
 
 `margin: auto`
 
-`box-sizing: border-box` // Resolve soma de pixels com percentual dos navegadores
+`box-sizing: border-box` // Resolve sum of pixels with percent of browsers
 
-`float: left` // flutua o elemento e permite que resto envolva ele mas é necessário usar o clear no elemento acima para n afetar toda a pagina
+`float: left` // float the element, but have to use clear on component father
