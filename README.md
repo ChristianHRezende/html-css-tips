@@ -8,9 +8,9 @@
 
 - CSS
 
-  - [CSS](./structure.md)
   - [Actions](./css/actions.md)
   - [Borders](./css/borders.md)
+  - [Gradient](./css/gradient.md)
   - [Img](./css/img.md)
   - [Modifiers](./css/modifiers.md)
   - [Position](./css/position.md)
