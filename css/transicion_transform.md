@@ -2,9 +2,9 @@
 
 ## Transition
 
-`trasition: 1s background` // insert a time for transition of colors like hover for example. Transition of a second to turn background
+`transition: 1s background` // insert a time for transition of colors like hover for example. Transition of a second to turn background
 
-`trasition: 1s all` // insert a time for transition of colors for all css's props
+`transition: 1s all` // insert a time for transition of colors for all css's props
 
 ## Transform
 
