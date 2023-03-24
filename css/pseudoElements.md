@@ -36,6 +36,14 @@
 }
 ```
 
+#### get all elements <p> after the 4th element
+
+```css
+.items: p:nth-child(n + 4) {
+
+}
+```
+
 #### Css space can be insert before element
 
 ```css
