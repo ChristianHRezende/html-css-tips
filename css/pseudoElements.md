@@ -28,6 +28,14 @@
 }
 ```
 
+#### get all elements after the 4th element
+
+```css
+.items: nth-child(n + 4) {
+
+}
+```
+
 #### Css space can be insert before element
 
 ```css
