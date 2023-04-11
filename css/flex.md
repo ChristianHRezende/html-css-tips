@@ -5,7 +5,9 @@
 - Scroll
 
 ```css 
+.test {
   overflow-y: auto;
   // or
-  overflow-x: auto
+  overflow-x: auto;
+  }
 ```
